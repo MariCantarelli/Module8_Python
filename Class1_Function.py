@@ -1,9 +1,9 @@
 #First module 
 
 def add():
-    print('this function will add values')
+    print('This function will add values.')
 
 def mult():
-    print('this function will multiplicate values')
+    print('This function will multiplicate values.')
 
 
